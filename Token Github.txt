@@ -1,5 +1,0 @@
-My Token Github
-
-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
-
-git remote set-url origin https://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@github.com/MangBadri/undanganonline
