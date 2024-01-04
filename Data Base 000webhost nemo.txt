@@ -1,0 +1,4 @@
+DB_NAME : id19378760_undanganapi_sql
+DB_USERNAME : id19378760_undanganapi
+DB_HOST : localhost
+DB_PASSWORD : 4Naksetan@123

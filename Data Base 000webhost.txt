@@ -1,0 +1,4 @@
+DB_NAME : id19378760_nemo
+DB_USER : id19378760_nemo
+DB_Host : localhost
+Password : 4Naksetan@123
